@@ -1,0 +1,14 @@
+Array Indexing Method:
+https://www.geeksforgeeks.org/find-the-index-of-an-array-element-in-java/
+
+Array Removing Elements Method:
+https://www.geeksforgeeks.org/delete-an-element-from-a-given-position-in-an-array/
+
+List of Prime Numbers up to 1000:
+https://byjus.com/maths/prime-numbers-from-1-to-1000/
+
+List of Prime Numbers up to 10000:
+https://www.easycalculation.com/prime-number-table.php
+
+List of Twin Primes up to 1000:
+https://prime-numbers.info/list/twin-primes-up-to-1000
